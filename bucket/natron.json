@@ -1,11 +1,10 @@
 {
   "version": "2.3.14",
   "url": "https://github.com/NatronGitHub/Natron/releases/download/2.3.14/Natron-2.3.14-Windows-x86_64bit-no-installer.zip",
-  "bin": "natron.exe",
-  "shortcuts": [
+  "bin": [
     [
-      "natron.exe",
-      "Natron 2.3.14"
+      "bin\\Natron.exe",
+      "Natron"
     ]
-  ]
+   ]
 }
