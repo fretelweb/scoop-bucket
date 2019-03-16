@@ -6,5 +6,11 @@
       "Natron-2.3.14-Windows-x86_64bit-no-installer\\bin\\Natron.exe",
       "natron"
     ]
-   ]
+   ],
+  "shortcuts": [
+    [
+      "natron.exe",
+      "Natron 2.3.14"
+    ]
+  ]
 }
